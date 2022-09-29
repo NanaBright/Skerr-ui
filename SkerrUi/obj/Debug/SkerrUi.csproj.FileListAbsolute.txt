@@ -1,0 +1,9 @@
+C:\Users\ACER\source\repos\SkerrUi\SkerrUi\bin\Debug\SkerrUi.exe.config
+C:\Users\ACER\source\repos\SkerrUi\SkerrUi\bin\Debug\SkerrUi.exe
+C:\Users\ACER\source\repos\SkerrUi\SkerrUi\bin\Debug\SkerrUi.pdb
+C:\Users\ACER\source\repos\SkerrUi\SkerrUi\obj\Debug\SkerrUi.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\SkerrUi\SkerrUi\obj\Debug\SkerrUi.Properties.Resources.resources
+C:\Users\ACER\source\repos\SkerrUi\SkerrUi\obj\Debug\SkerrUi.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\SkerrUi\SkerrUi\obj\Debug\SkerrUi.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\SkerrUi\SkerrUi\obj\Debug\SkerrUi.exe
+C:\Users\ACER\source\repos\SkerrUi\SkerrUi\obj\Debug\SkerrUi.pdb
